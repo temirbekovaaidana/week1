@@ -1,0 +1,2 @@
+stroka = "Hi"
+print(stroka)
